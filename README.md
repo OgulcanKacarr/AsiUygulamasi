@@ -86,6 +86,7 @@
 
 
 # çalıştırılacak kod
+```
 USE AsiUygulamasi;
 
 CREATE TABLE Staff (
@@ -129,9 +130,10 @@ CREATE TABLE VaccinationRecords (
 );
 
 
-#admin oluşturma
-USE AsiUygulamasi;
+
+
+
 
 INSERT INTO Staff (Name, Username, Password, Role)
 VALUES ('kübraa', 'k', '12345', 'Admin');
-
+```
